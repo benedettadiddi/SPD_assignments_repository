@@ -21,8 +21,11 @@ body {
 }
 
 h1 {
-    margin-bottom: 6px;
+    font-size: 40px;
+    font-weight: 100;
     text-transform: uppercase;
+
+    margin-bottom: 6px;
 }
 
 header {
@@ -47,8 +50,9 @@ a:visited {
 
 .title {
     margin: 0;
+
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .container {
