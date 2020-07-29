@@ -47,6 +47,8 @@ a:visited {
 
 .title {
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 
 .container {
